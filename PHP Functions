@@ -1,0 +1,18 @@
+<?php
+ 
+function hello(){
+  echo "Hello Everybody.<br>";
+}
+
+function Monti(){
+  echo "Hello MONTI.<br>";
+}
+
+hello(); 
+hello();
+
+Monti();
+echo "Hey this is an example.";
+hello();
+hello();
+?>
